@@ -7,7 +7,7 @@ namespace MiProyecto
 		public static void Main (string[] args)
 		{
 			Console.WriteLine ("Hello World!");
-            Console.WriteLine("Con Githib");
+            Console.WriteLine("Con Github");
 		}
 	}
 }
